@@ -1,0 +1,71 @@
+body {
+
+    background-color: black;
+}
+
+.container {
+    width: 480px;
+    margin: 0 auto;
+    background-color: rgb(17, 196, 136);
+    
+}
+.header {
+    text-align: center;
+padding:45px 0 20px 40px ;
+border: 2px solid greenyellow;
+}
+
+.menu {
+    background-color: chocolate;
+}
+.menu a {
+    image-orientation: flip;
+    color: black;
+}
+.menu a:hover {
+    color: azure;
+}
+ #picture-container{
+    border: color(red);
+    color: blue;
+    width: 200px;
+    text-align: center;
+    height: 100px;
+
+ }
+ #picture-containe:hover{
+
+    color: beige;
+ }
+ .main
+p{
+color: blueviolet;
+font-size: 24px;
+}
+
+footer{
+    text-decoration: cornflowerblue;
+
+    padding: 6px 40px 6px 40px;
+    background-color: darkcyan;
+    font-size: medium;
+}
+.link-title{
+    color: crimson;
+    font-size: large;
+}
+.separator{
+    color: black;
+    font-size: larger;
+}
+#home-image img{
+    width:100%
+   
+    
+
+}
+#about #home-image img{
+    width: 70%;
+
+}
+
