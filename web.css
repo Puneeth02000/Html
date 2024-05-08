@@ -1,0 +1,55 @@
+body {
+    color: black;
+
+}
+page-title
+{
+    text-align: center;
+}
+h2, p {
+    text-align: center;
+    color: blue;
+    background-color: chartreuse;
+    border-radius: 25%;
+    border-color: black;
+    border-style: ridge;
+    margin: 0cqb;
+}
+
+#picture-container
+ {
+   border: 1px solid black;
+   width: 400px;
+   height: 400px;
+   margin: auto;
+ }
+
+ #image {
+    width: 400px;
+    border: red;
+    padding: 20px;
+    height: 300px;
+
+ }
+
+ #hovers {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+ }
+ #hovers:hover {
+    text-align: center;
+    color: black;
+    background-color:black;
+    border:1px solid red;
+ }
+ h5 {
+    color:green;
+    text-align: center;
+ }
+
+
+
+
+
+
