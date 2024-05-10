@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(184, 178, 178);
+    margin:auto;
+
+}
+.container{
+    width:700px;
+    margin:0 auto;
+    background-color: blanchedalmond;
+}
+.header{
+    padding:45px 0 20px 40px;
+    border:2px solid black;
+}
+.menu{
+    background-color: chocolate;
+    padding:6px 0 6px 40px;
+}
+
+.menu a{
+    color:darkgreen;
+    text-decoration: none;font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu a:hover{
+    color: darkred;
+}
+
+h1{
+    padding: 20px 0 0 25px;
+    color:black;
+    font-size: large;
+}
+
+.Main {
+    margin: 0 0 0 180px;
+    padding:0px 10px 30px 0;
+    color: royalblue;
+    font-size: 13px;
+    line-height: 18px;
+}
+.Main a:hover{
+    color: aquamarine;
+}
+
+footer{
+    color: aquamarine;
+    padding: 6px 8px 0 6px;
+    background-color: black;
+    text-decoration: solid;
+}
+
+.link-title{
+    text-decoration: none;
+    font-size: 24px;
+
+}
+.separator{
+    color: aliceblue;
+    font-size: 11px;
+
+}
+#image1{
+    padding:0 0 0 20px;
+
+
+}
+
+#about-page #image1 img{
+ float:left;
+    width: 70%;
+}
+#about-page #profile-info{
+    text-align:center;
+    color:blue;
+    font-size: medium;
+
+
+}
+ #about-page .para{
+    color: brown;
+    float: right;
+    font-size: 30px;
+    margin:25px;
+}
+
+#about-page #foot{
+    color: aquamarine;
+    padding: 6px 8px 0 6px;
+    background-color: black;
+    text-decoration: solid;
+}
+
+
+
+#contact #form:hover{
+    color: rgb(72, 77, 77);
+}
+
+#contact #submit{
+    background-color: rgb(79, 79, 126);
+    padding-bottom: 15px;
+
+}
+
+#contact #comments{
+    background-color: black;
+    padding-left: 20px;
+
+}
+#contact .forms{
+    color: blue;
+    margin:auto;
+    border: 10px solid black;
+    margin: auto;
+}
+
+#contact form{
+    border: 2px solid black;
+    width: 10px;
+    height:10px;
+}
